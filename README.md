@@ -1,4 +1,3 @@
-```markdown
 # Filesystem Analyzer
 
 A filesystem analyzer made in Rust.
@@ -61,6 +60,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to customize it further according to your project's needs.
